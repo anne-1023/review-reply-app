@@ -47,7 +47,7 @@ export default function Home() {
 
     return (
         <main className="min-h-screen bg-black text-white p-6 flex flex-col items-center">
-            <h1 className="text-5xl font-bold mt-10">レビューリプレイAI</h1>
+            <h1 className="text-5xl font-bold mt-10">口コミ返信生成</h1>
 
             <p className="text-gray-400 txt-lg mt-4">
                 口コミ内容に合わせて返信文を生成します
